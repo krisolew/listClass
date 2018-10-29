@@ -6,7 +6,6 @@ struct node
 {
     int val;
     node *next;
-    bool flag;
 };
 
 class Lista
